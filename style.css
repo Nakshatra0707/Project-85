@@ -1,0 +1,8 @@
+div{
+    background-color: red;
+    border-radius: 15px;
+    border-top: 10px solid blue;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
